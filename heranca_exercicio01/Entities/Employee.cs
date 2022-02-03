@@ -16,6 +16,14 @@ namespace heranca_exercicio01.Entities {
             ValuePerHour = valuePerHour;
         }
 
+        public void addEmplyee(Employee employee) {
+            Employees.Add(employee);
+        }
+
+        public void removeEmployee(Employee employee) {
+            Employees.Remove(employee);
+        }
+
         public virtual double payment() {
             return Hours * ValuePerHour;
         }
