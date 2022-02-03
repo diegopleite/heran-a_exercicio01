@@ -1,0 +1,14 @@
+F:\Curso C#\heranca_exercicio01\heranca_exercicio01\bin\Debug\netcoreapp3.1\heranca_exercicio01.exe
+F:\Curso C#\heranca_exercicio01\heranca_exercicio01\bin\Debug\netcoreapp3.1\heranca_exercicio01.deps.json
+F:\Curso C#\heranca_exercicio01\heranca_exercicio01\bin\Debug\netcoreapp3.1\heranca_exercicio01.runtimeconfig.json
+F:\Curso C#\heranca_exercicio01\heranca_exercicio01\bin\Debug\netcoreapp3.1\heranca_exercicio01.runtimeconfig.dev.json
+F:\Curso C#\heranca_exercicio01\heranca_exercicio01\bin\Debug\netcoreapp3.1\heranca_exercicio01.dll
+F:\Curso C#\heranca_exercicio01\heranca_exercicio01\bin\Debug\netcoreapp3.1\heranca_exercicio01.pdb
+F:\Curso C#\heranca_exercicio01\heranca_exercicio01\obj\Debug\netcoreapp3.1\heranca_exercicio01.csproj.AssemblyReference.cache
+F:\Curso C#\heranca_exercicio01\heranca_exercicio01\obj\Debug\netcoreapp3.1\heranca_exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso C#\heranca_exercicio01\heranca_exercicio01\obj\Debug\netcoreapp3.1\heranca_exercicio01.AssemblyInfoInputs.cache
+F:\Curso C#\heranca_exercicio01\heranca_exercicio01\obj\Debug\netcoreapp3.1\heranca_exercicio01.AssemblyInfo.cs
+F:\Curso C#\heranca_exercicio01\heranca_exercicio01\obj\Debug\netcoreapp3.1\heranca_exercicio01.csproj.CoreCompileInputs.cache
+F:\Curso C#\heranca_exercicio01\heranca_exercicio01\obj\Debug\netcoreapp3.1\heranca_exercicio01.dll
+F:\Curso C#\heranca_exercicio01\heranca_exercicio01\obj\Debug\netcoreapp3.1\heranca_exercicio01.pdb
+F:\Curso C#\heranca_exercicio01\heranca_exercicio01\obj\Debug\netcoreapp3.1\heranca_exercicio01.genruntimeconfig.cache

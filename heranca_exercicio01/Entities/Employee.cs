@@ -15,17 +15,17 @@ namespace heranca_exercicio01.Entities {
             Hours = hours;
             ValuePerHour = valuePerHour;
         }
-
-        public void addEmplyee(Employee employee) {
-            Employees.Add(employee);
-        }
-
-        public void removeEmployee(Employee employee) {
-            Employees.Remove(employee);
-        }
-
+   
         public virtual double payment() {
             return Hours * ValuePerHour;
+        }
+
+        public override string ToString() {
+            StringBuilder sb = new StringBuilder();
+            sb.Append(Name);
+            sb.Append(" - $");
+            sb.Append(payment());
+            return sb.ToString();
         }
     }
 }
