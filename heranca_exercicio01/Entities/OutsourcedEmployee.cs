@@ -11,9 +11,8 @@ namespace heranca_exercicio01.Entities {
         }
 
         public override double payment() {
-            double payment = ValuePerHour * Hours;
-            double result;
-            return result = payment + (payment * (AdditionalCharge/100));
+            double result = AdditionalCharge + (AdditionalCharge * 0.1);            
+            return base.payment() + result;
         }
     }
 }

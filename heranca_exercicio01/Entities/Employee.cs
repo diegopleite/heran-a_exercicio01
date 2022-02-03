@@ -8,6 +8,7 @@ namespace heranca_exercicio01.Entities {
         public string Name { get; set; }
         public int Hours { get; set; }
         public double ValuePerHour { get; set; }
+        public List<Employee> Employees { get; set; } = new List<Employee>();
 
         public Employee(string name, int hours, double valuePerHour) {
             Name = name;
@@ -15,7 +16,7 @@ namespace heranca_exercicio01.Entities {
             ValuePerHour = valuePerHour;
         }
 
-        public double payment() {
+        public virtual double payment() {
             return Hours * ValuePerHour;
         }
     }
